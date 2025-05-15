@@ -25,7 +25,7 @@
 <br>
 
 ## 🔗 Links  
-- [📘 발표 자료(노션)]()  
+- [📘 발표 자료(노션)](https://rough-lime-f80.notion.site/C-Project-1eb2d24c870d80dbb9faed96d170b623)  
 
 ---
 
