@@ -10,12 +10,12 @@
 ## 📸 스크린샷
 
 ### 🎯 메인 대시보드
-![MainDashboard](docs/MainDashboard.png)
+![MainDashboard](docs/MainDashboard.PNG)
 
 ### 📊 주간 리포트
 | LineChart | BarChart |
 |---------------|-------------|
-| ![LineChart](docs/LineChart.png) | ![BarChart](docs/BarChart.png) |
+| ![LineChart](docs/LineChart.PNG) | ![BarChart](docs/BarChart.PNG) |
 
 <br>
 
