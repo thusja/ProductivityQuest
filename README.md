@@ -9,8 +9,13 @@
 
 ## 📸 스크린샷
 
-### 🎯 메인 대시보드
+### 👁‍🗨 메인 대시보드
 ![MainDashboard](docs/MainDashboard.PNG)
+
+### 🎯 목표 설정
+| 목표 설정 | 프리셋 |
+|---------------|-------------|
+| ![LineChart](docs/GoalSetting.PNG) | ![BarChart](docs/Preset.PNG) |
 
 ### 📊 주간 리포트
 | LineChart | BarChart |
