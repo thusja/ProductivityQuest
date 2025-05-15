@@ -13,7 +13,9 @@
 ![MainDashboard]()
 
 ### 📊 주간 리포트
-![WeeklyReport]()
+| LineChart | BarChart |
+|---------------|-------------|
+| ![LineChart](docs/screenshot_main.png) | ![BarChart](docs/screenshot_report.png) |
 
 <br>
 
