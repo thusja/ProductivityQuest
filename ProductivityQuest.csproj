@@ -139,6 +139,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="docs\BarChart.PNG" />
+    <Content Include="docs\LineChart.PNG" />
+    <Content Include="docs\MainDashboard.PNG" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
